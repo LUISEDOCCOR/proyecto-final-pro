@@ -2,9 +2,7 @@
 
 ## 📌 Descripción
 
-Este proyecto consiste en un carrito robótico basado en Arduino, diseñado para moverse en diferentes direcciones mediante motores DC controlados por un driver de motores.
-
-El carrito puede ser controlado de forma inalámbrica mediante un módulo Bluetooth, permitiendo interactuar con él desde un celular u otro dispositivo. Además, cuenta con un sensor ultrasónico para detección de obstáculos.
+Este proyecto consiste en un carrito con Arduino, diseñado para desplazarse mediante el control de una aplicación desarrollada en Python. La comunicación entre el carrito y la aplicación se realiza a través de Bluetooth. El diseño del prototipo fue realizado en Tinkercad Además, cuenta con un sensor ultrasónico para detección de obstáculos.
 
 ---
 
@@ -14,7 +12,7 @@ El carrito puede ser controlado de forma inalámbrica mediante un módulo Blueto
 - 1x Chasis (base del carrito)
 - 4x Ruedas
 - 4x Motores DC
-- 1x Batería (9V o pack de baterías)
+- 1x Batería 9V
 - Cables jumper
 
 ---
@@ -23,8 +21,8 @@ El carrito puede ser controlado de forma inalámbrica mediante un módulo Blueto
 
 - 🔵 Arduino UNO
 - 🔴 Driver de motores L298N
-- 📡 Módulo Bluetooth (HC-05 o HC-06)
-- 📏 Sensor ultrasónico (HC-SR04)
+- 📡 Módulo Bluetooth
+- 📏 Sensor ultrasónico
 - 🔋 Batería
 - ⚙️ Motores DC (x4)
 - 🛞 Ruedas (x4)
@@ -45,31 +43,10 @@ _(Agrega aquí más fotos reales cuando lo construyas)_
 
 Basado en el diseño:
 
-- Largo: ~25 cm
-- Ancho: ~15 cm
-- Alto: ~10 cm
+- Largo: 25 cm
+- Ancho: 15 cm
+- Alto: 10 cm
 
-_(Las medidas pueden variar dependiendo del armado real)_
-
----
-
-## 💡 Funcionamiento
-
-- El Arduino controla los motores mediante el driver L298N.
-- El módulo Bluetooth permite enviar comandos desde un celular.
-- El sensor ultrasónico puede detectar obstáculos para evitar choques (opcional según programación).
+_(Las medidas pueden variar dependiendo del armado)_
 
 ---
-
-## 🔧 Posibles mejoras
-
-- Control por app móvil
-- Evitación automática de obstáculos
-- Mayor duración de batería
-- Cámara o sensores adicionales
-
----
-
-## 👨‍💻 Autor
-
-Luis Eduardo Ocegueda Cortés
