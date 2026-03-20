@@ -42,8 +42,6 @@ Este proyecto consiste en un carrito con Arduino, diseñado para desplazarse med
 
 
 
-_(Agrega aquí más fotos reales cuando lo construyas)_
-
 ---
 
 ## 📏 Medidas Aproximadas
