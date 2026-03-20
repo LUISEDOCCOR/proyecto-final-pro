@@ -33,7 +33,14 @@ Este proyecto consiste en un carrito con Arduino, diseñado para desplazarse med
 
 ### Prototipo 3D
 
-![Prototipo del carrito](./imagenes/prototipo.png)
+
+<img width="600"  alt="imagen" src="https://github.com/user-attachments/assets/721fc2fb-6690-4b3b-98ae-b5d3232725e6" />
+<img width="600"  alt="imagen" src="https://github.com/user-attachments/assets/96f3bf10-281d-4ffd-a7ae-8d771f966cf7" />
+<img width="600"  alt="imagen" src="https://github.com/user-attachments/assets/7cc4476c-3f3f-4450-b8cd-9c422518cfea" />
+<img width="600"  alt="imagen" src="https://github.com/user-attachments/assets/6560ab1e-83f8-43fa-830c-4e845587f578" />
+<img width="600"  alt="imagen" src="https://github.com/user-attachments/assets/5af3f8ac-d6c6-49aa-85f6-72c21e6dd853" />
+
+
 
 _(Agrega aquí más fotos reales cuando lo construyas)_
 
